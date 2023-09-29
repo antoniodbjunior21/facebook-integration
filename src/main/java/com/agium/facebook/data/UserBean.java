@@ -1,10 +1,10 @@
 package com.agium.facebook.data;
 
-public class ContaFacebook {
+public class UserBean {
     public String id;
     public String name;
 
-    public ContaFacebook() {
+    public UserBean() {
     }
 
     public String getId() {
